@@ -1,2 +1,2 @@
-# WeatherApp
+# WeatherReminder_Kotlin
 
